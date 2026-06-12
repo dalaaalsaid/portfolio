@@ -30,7 +30,7 @@ function App() {
         </div>
 
         <div className="hero-image">
-          <img src="/portfolio/profile.jpg" alt="Dalaa Alsaid" />
+         <img src="profile.jpg" alt="Dalaa Alsaid" />
         </div>
       </section>
 
